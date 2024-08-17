@@ -1,7 +1,7 @@
 MAC ONLY
 
 Double Click 'Installer'
-If required, will ask for your admin password.
+If required, will ask for your admin password. (if your security says it wont open because its unidentified, go to Privacy and Security and Scroll down and Select 'Open Anyways')
 it will then add the script and open the 'FOLDER ACTION SETUP' app
 Check 'Enable Folder Actions'
 Click the '+' button and add your DESKTOP folder
